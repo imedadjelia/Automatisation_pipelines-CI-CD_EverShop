@@ -14,6 +14,7 @@ class TestEverShop:
 # initialisation du navigateur
         chrome_options = Options()
         chrome_options.add_argument("--disable-search-engine-choice-screen")
+        chrome_options.add_argument("--headless") # pour avoir un navigateur qui tourne en tâche de fond
         cls.driver = webdriver.Chrome(options=chrome_options)
     
     def teardown_class(cls):
