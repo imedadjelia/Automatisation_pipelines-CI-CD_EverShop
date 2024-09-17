@@ -52,7 +52,7 @@ jobs:
           npm install
           docker-compose up -d
           docker-compose ps
-          docker exec evershop-automatisation-pipelines-ci-cd _app_1 npm run user:create -- --email "i.medadjelia@it-students.fr" --password "qodkflkznjf1" --name "test"
+          docker exec evershop-automatisation-pipelines-ci-cd_app_1 npm run user:create -- --email "i.medadjelia@it-students.fr" --password "qodkflkznjf1" --name "test"
       
 
 
