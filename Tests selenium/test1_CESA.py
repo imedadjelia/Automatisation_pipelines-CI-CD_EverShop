@@ -9,7 +9,7 @@ import time
 
 
 class TestEverShop:
-    @classmethod # méthode qui est exécutée une seule fois pour toutes les méthodes de la classe
+    @classmethod # méthode qui est exécutée une seule fois pour toutes les méthodes de la class
     def setup_class(cls): # cls cls fait référence à la classe, tout comme self fait référence à une instance
 # initialisation du navigateur
         chrome_options = Options()
