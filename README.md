@@ -20,7 +20,8 @@ Pour assurer une couverture optimale et la qualité des tests de l'application E
   
 ![Capture d'écran 2024-09-19 114315](https://github.com/user-attachments/assets/b55f9c8b-4502-48cf-ba7d-5409ef066210)   
 
-2. [Rédaction de scénarios de tests](https://github.com/imedadjelia/EverShop-Automatisation-Pipelines-CI-CD/blob/main/Sc%C3%A9narios%20de%20test) : Des scénarios de tests détaillés ont été rédigés en fonction des flux et fonctionnalités les plus importants identifiés lors de la phase exploratoire. Ces scénarios couvrent les cas d'usage les plus critiques et assurent une couverture fonctionnelle pertinente.
+2. [Rédaction de scénarios de tests](https://github.com/imedadjelia/EverShop-Automatisation-Pipelines-CI-CD/blob/main/Sc%C3%A9narios%20de%20test) : Des scénarios de tests détaillés ont été rédigés en fonction des flux et fonctionnalités les plus importants identifiés lors de la phase exploratoire.
+
 * Aperçu :
   
 ![Capture d'écran 2024-09-19 122721](https://github.com/user-attachments/assets/55a3e8e7-662a-43b1-a2c5-a30661c447b0)
