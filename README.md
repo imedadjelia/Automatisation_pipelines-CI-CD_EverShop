@@ -27,5 +27,7 @@ Pour assurer une couverture optimale et la qualité des tests de l'application E
 * Aperçu :
 ![image](https://github.com/user-attachments/assets/608fcfd6-114e-4850-bd74-197f0afa7b81)
 
+![ezgif-6-356edd7ddb](https://github.com/user-attachments/assets/a98daed5-3c55-44af-9862-e1b0e41b257a)
+
 
 4. [Configuration des pipelines CI/CD avec GitHub Actions ](https://github.com/imedadjelia/EverShop-Automatisation-Pipelines-CI-CD/blob/main/.github/workflows/test.yml): Pour assurer une intégration continue, des pipelines GitHub Actions ont été configurés. Ils exécutent automatiquement les tests à chaque modification du code source (push ou pull request), garantissant que tout changement est testé immédiatement dans un environnement isolé.
