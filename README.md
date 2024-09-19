@@ -25,5 +25,7 @@ Pour assurer une couverture optimale et la qualité des tests de l'application E
 
 3. [Automatisation des tests avec Selenium et Pytest](https://github.com/imedadjelia/EverShop-Automatisation-Pipelines-CI-CD/blob/main/Test/test_CESA.py) : Les scénarios de tests ont été automatisés à l'aide de Selenium pour l'interaction avec l'interface utilisateur, et Pytest pour la gestion des assertions et l'exécution des tests. Cette approche garantit une exécution répétée et fiable des tests, tout en optimisant l'efficacité des validations.
 * Aperçu :
+![image](https://github.com/user-attachments/assets/608fcfd6-114e-4850-bd74-197f0afa7b81)
+
 
 4. [Configuration des pipelines CI/CD avec GitHub Actions ](https://github.com/imedadjelia/EverShop-Automatisation-Pipelines-CI-CD/blob/main/.github/workflows/test.yml): Pour assurer une intégration continue, des pipelines GitHub Actions ont été configurés. Ils exécutent automatiquement les tests à chaque modification du code source (push ou pull request), garantissant que tout changement est testé immédiatement dans un environnement isolé.
